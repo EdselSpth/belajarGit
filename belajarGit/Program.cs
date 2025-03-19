@@ -1,2 +1,7 @@
-﻿Console.WriteLine("tes");
-Console.WriteLine("tes");
+﻿public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hello World2!");
+    }
+}
